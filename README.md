@@ -1,7 +1,5 @@
 ### alejandroc-product-card
 
-# Alejandro Cárdenas
-
 # Ejemplos
 ```
 import { ProductButtons,ProductImage,ProductTitle,ProductCard } from 'alejandroc-product-card';
